@@ -30,7 +30,9 @@ Ensure you have MATLAB installed on your system with support for GUI elements. T
 ## Results
 
 <br>
+
 ![image](https://github.com/user-attachments/assets/66008b75-755a-4e16-8930-d77b8f8aee6a)<br>
+
 <br>
 
 ## Conclusion
